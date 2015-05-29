@@ -1,2 +1,4 @@
 #about     { margin: 150px auto 0px auto ; width: 864px; height: 576px; background-color: white; background-image: url("about/about.jpg"); }
 marquee { font-size: 60px; font-style: normal; color:blue; padding-top:230px}
+
+#white     {background-color: #00ff00;}
